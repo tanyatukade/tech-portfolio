@@ -4,7 +4,7 @@ title: About
 ---
 
 I am Tanya Tukade, software engineer at Cisco.
-I like solving challenging problens in  the cloud.
+I like solving challenging problems in the cloud.
 
 ## Current Role
 
